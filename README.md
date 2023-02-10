@@ -1,4 +1,4 @@
-# 🤖 VIRTUAL-ASSISTANT 🤖
+# 👾 VIRTUAL-ASSISTANT 👾
 
 ### 🔶 One of my best completely self-built from scratch projects 🔶
 
@@ -107,3 +107,20 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 ### ***📌 When the user asks to open any application :***
    Assistant opens the computer applications. These applications can be stored in a file with the applications shortcuts and this file path can be saved in the environment variables so that it can be accessed anywhere in the computer.
+   
+## Project Admin
+
+<a href="https://github.com/VS-DYPIAN"><img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws " width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                       **[Vaibhav Sawant](www.linkedin.com/in/vaibhav-sawant-683b20217/)**                                                                                                                                        |
+|   <img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws" width="32px" height="32px"> "www.linkedin.com/in/vaibhav-sawant-683b20217/" |</br>
+
+#### Thanks goes to our valuable Contributors :
+<a href="https://github.com/VS-DYPIAN">
+  
+</a>
+
+## Like This?? Star ⭐ this Repo.
+> Made with ❤️ by Vaibhav Sawant
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
