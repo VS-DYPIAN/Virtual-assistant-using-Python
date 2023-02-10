@@ -108,8 +108,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 ### ***📌 When the user asks to open any application :***
    Assistant opens the computer applications. These applications can be stored in a file with the applications shortcuts and this file path can be saved in the environment variables so that it can be accessed anywhere in the computer.
 
-## 🧊 UI will look like  🧊
-<img src="https://ibb.co/17cFtdb" alt="Dypian">
+
 ## Project Admin
 
 <a href="https://github.com/VS-DYPIAN"><img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws " width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
