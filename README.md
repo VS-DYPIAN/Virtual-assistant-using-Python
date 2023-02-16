@@ -30,7 +30,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 ***1️⃣    &nbsp; &nbsp; &nbsp; START***\
 ***2️⃣    &nbsp; &nbsp; &nbsp; Use get_audio() function to take audio input from the microphone.***\
-***3️⃣    &nbsp; &nbsp; &nbsp; If "Olivia" in the input: Reply/Greet the user.***\
+***3️⃣    &nbsp; &nbsp; &nbsp; If "Dypian" in the input: Reply/Greet the user.***\
 ***️4️⃣    &nbsp; &nbsp; &nbsp; Else: Ask the user to call the assistant's name in the input.***\
 ***5️⃣    &nbsp; &nbsp; &nbsp; Expect voice input/commands from the user.***\
 ***6️⃣    &nbsp; &nbsp; &nbsp; User asks to set a reminder.***\
