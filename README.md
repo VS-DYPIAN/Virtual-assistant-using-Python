@@ -59,8 +59,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 <br>
 
-## 🧊 USER INTERFACE 🧊
-<img src="https://ibb.co/gW4wjqc " width=150px height=150px  alt = Vaibhav/>     
+     
 
 ## 🧊 WORKING 🧊
 
