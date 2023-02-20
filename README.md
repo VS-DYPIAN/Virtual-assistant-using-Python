@@ -60,7 +60,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 <br>
 
 ## 🧊 USER INTERFACE 🧊
-<a href="https://github.com/VS-DYPIAN"><img src="https://drive.google.com/file/d/1KD2_EQdl8dZHYJhhRsiBz1nH8NooTBNA/view " width=150px height=150px  alt = Vaibhav/></a>      
+<img src="https://drive.google.com/file/d/1KD2_EQdl8dZHYJhhRsiBz1nH8NooTBNA/view " width=150px height=150px  alt = Vaibhav/>     
 
 ## 🧊 WORKING 🧊
 
